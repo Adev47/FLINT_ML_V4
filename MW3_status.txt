@@ -4,3 +4,4 @@ AIO,offline,1.00.01,https://
 PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Privacy_Protector.exe
 GOLD CHAIR,offline,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Flint_Gold_Chair.exe
 External Cod Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1258150612126928906/1278491000100098120/Loader.exe?ex=66d2f947&is=66d1a7c7&hm=bad2fbe63411dd6dad8e47ba33bb13fbc118c19ef76aaccc790ff9df10cdcf8a&
+gold chair,online,1.00.01,https://cdn.discordapp.com/attachments/1213154691492352090/1232432767891931175/Revera.exe?ex=66d97035&is=66d81eb5&hm=af1deaf62ec00efd77226c449a5c9b8a16b2ae4b2807e47412b7601d148f622d&
