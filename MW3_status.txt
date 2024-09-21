@@ -1,4 +1,5 @@
 UNLOCK ALL,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/FLINT_MWIII_UA.exe
 CHAIR V2,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/FLINT_CHAIR_V2.exe
 AIO,offline,1.00.01,https://
-PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Privacy_Protector.exe
+PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Privacy_Protector.exe
+Kuriboh Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1285937920544346142/1287173018807828562/Loader.exe?ex=66f094ca&is=66ef434a&hm=60067681858ef3d520e3e9385db6e086f586834c657ca50913bfc67442f566f6&
