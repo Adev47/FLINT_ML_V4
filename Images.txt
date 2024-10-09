@@ -1,7 +1,7 @@
 Logo,1.00.03,https://cdn.discordapp.com/attachments/1292243424296308767/1293635499839328256/ezgif.com-video-to-gif-converter.gif?ex=67081771&is=6706c5f1&hm=2607e1ef940951c30fd66c249b3d9291500d4f28f440a04e9e9b123762e40781&
 News_Page,1.00.02,https://cdn.discordapp.com/attachments/1293569050823233556/1293637593954521099/R.jpg?ex=67081965&is=6706c7e5&hm=9b972d61f7d0138fd9eb6404647ef82c374d0f049078c9a406c8931c013a110b&
 Lateral_Menu,1.00.03,https://cdn.discordapp.com/attachments/1293569050823233556/1293638543574306826/wp5097914.png?ex=67081a47&is=6706c8c7&hm=2ec5b099b44a4e681dad4cebd0860ac2b54d6faed1e2f316773c0c802a807e65&
-Background,1.00.03,https://cdn.discordapp.com/attachments/1293569050823233556/1293637593954521099/R.jpg?ex=67081965&is=6706c7e5&hm=9b972d61f7d0138fd9eb6404647ef82c374d0f049078c9a406c8931c013a110b&
+Background,1.00.04,https://cdn.discordapp.com/attachments/1293569050823233556/1293644981533147279/ftytyfftyyft.jpg?ex=67082046&is=6706cec6&hm=5b2a28775fd7e46c57f2cd9c5af5c93d75f98a9fd8dc8f9221d6751996a68245&
 BO6,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_BO6_category_wallp.png
 MW3,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW3_category_wallp.png
 MW2,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW2_category_wallp.png
