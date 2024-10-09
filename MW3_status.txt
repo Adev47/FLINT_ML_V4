@@ -2,4 +2,4 @@ UNLOCK ALL,online,1.00.02,https://cdn.discordapp.com/attachments/118394166826999
 CHAIR V2,online,1.00.03,https://cdn.discordapp.com/attachments/1293569050823233556/1293640492172443658/Loader_1.exe?ex=67081c18&is=6706ca98&hm=a41f90a00c3e2fe83f4e9f761d5325ba984cab51a8362042bd14f41044faf622&
 AIO,offline,1.00.01,https://
 PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Privacy_Protector.exe
-Kuriboh Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1285937920544346142/1287173018807828562/Loader.exe?ex=66f094ca&is=66ef434a&hm=60067681858ef3d520e3e9385db6e086f586834c657ca50913bfc67442f566f6&
+Kuriboh Chair,online,1.00.02,https://cdn.discordapp.com/attachments/1293569050823233556/1293640492172443658/Loader_1.exe?ex=67081c18&is=6706ca98&hm=a41f90a00c3e2fe83f4e9f761d5325ba984cab51a8362042bd14f41044faf622&
