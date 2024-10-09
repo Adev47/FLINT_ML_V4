@@ -9,4 +9,4 @@ discord_link = https://discord.gg/flintServices
 website_link = https://flintservices.sellsn.io/explore/
 
 [rounded_corners]
-main_widgets = 12
+main_widgets = 1
