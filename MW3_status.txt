@@ -1,4 +1,4 @@
-UNLOCK ALL,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/FLINT_MWIII_UA.exe
+UNLOCK ALL,online,1.00.02,https://cdn.discordapp.com/attachments/1183941668269998101/1274125435965280317/MWIII.exe?ex=6707a588&is=67065408&hm=ba8ddc5512e1feeba98a734787037b580da08f5024aec070ae5686ab7c83bf30&
 CHAIR V2,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/FLINT_CHAIR_V2.exe
 AIO,offline,1.00.01,https://
 PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Privacy_Protector.exe
