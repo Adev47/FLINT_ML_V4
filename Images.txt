@@ -1,5 +1,5 @@
 Logo,1.00.02,https://cdn.discordapp.com/attachments/1292243424296308767/1293635499839328256/ezgif.com-video-to-gif-converter.gif?ex=67081771&is=6706c5f1&hm=2607e1ef940951c30fd66c249b3d9291500d4f28f440a04e9e9b123762e40781&
-News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png
+News_Page,1.00.02,https://cdn.discordapp.com/attachments/1293569050823233556/1293637593954521099/R.jpg?ex=67081965&is=6706c7e5&hm=9b972d61f7d0138fd9eb6404647ef82c374d0f049078c9a406c8931c013a110b&
 Lateral_Menu,1.00.02,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/av_template_default_lateral.png
 Background,1.00.02,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/av_template_default_background.png
 BO6,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_BO6_category_wallp.png
